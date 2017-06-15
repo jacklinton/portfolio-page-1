@@ -472,6 +472,7 @@ font-size: 18px;
 @media screen and (max-width: 760px) {
 	.main-heading span {
     border-bottom: none;
+	font-size: 55;
     color: #000000;
     font-family: "Carto_Sans_Bold";
     padding-bottom: 16px;
