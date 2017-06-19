@@ -318,7 +318,7 @@ font-size: 24px;
     background: none repeat scroll 0 0 #E8E8E8;
 }
 .accordion-heading .accordion-toggle {
-    background: none repeat scroll 0 0 #FF3C00;
+    background: none repeat scroll 0 0 #f90303;
     color: #FFFFFF;
     display: block;
     padding: 8px 15px;
@@ -365,6 +365,7 @@ font-size: 24px;
 /*TEAM*/
 .team-block{
 	text-align: center;
+	margin: 0px 30px 0px 30px;
 }
 .team-block h3{
 	font-family:"Open_Sans_R";
